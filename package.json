@@ -14,12 +14,12 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "require-dir": "^1.2.0",
-    "prompt-sync": "^4.2.0",
-    "sqlite3": "^5.0.0",
-    "telegraf": "^3.38.0",
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.3",
-    "moment-timezone": "^0.5.31"
+    "moment-timezone": "^0.5.31",
+    "prompt-sync": "^4.2.0",
+    "require-dir": "^1.2.0",
+    "sqlite3": "^5.0.0",
+    "telegraf": "^3.38.0"
   }
 }

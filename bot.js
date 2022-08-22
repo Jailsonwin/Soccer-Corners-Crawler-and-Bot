@@ -22,7 +22,7 @@ const Game = require("./src/controllers/Game");
 
 //Bot token
 //Put your telegram bot token here
-const token = "";
+const token = "5356281506:AAFhYSWWIslFYYocWwkO9B35WST_NwTpxPg";
 
 //Bot instance
 const bot = new Telegraf(token);
